@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mayurc1997
 - 👀 I’m interested in Machine Learning, Deep learning and Artificial Intelligence
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ML and DL projects
 - 📫 How to reach me-
 -  Email- chulbharemayur@gmail.com
 - LinkedIn- https://www.linkedin.com/in/mayur-chulbhare-a337571b5/
