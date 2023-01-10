@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me-
 -  Email- chulbharemayur@gmail.com
-- LinkedIn- https://www.linkedin.com/in/mayur-chulbhare-a337571b5/
+- LinkedIn- (https://www.linkedin.com/in/mayur-chulbhare/)
 
 
 <!---
